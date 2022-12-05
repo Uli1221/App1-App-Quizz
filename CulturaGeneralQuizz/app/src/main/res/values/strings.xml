@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CulturaGeneralQuizz</string>
+    <string name="question_huesos">¿El cuerpo humano de un adulto tiene 206 huesos?</string>
+    <string name="question_guerra">¿La guerra de los cien años, duro 116 años?</string>
+    <string name="question_cultura">¿Adolf hitler nacio en Austria?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto:(</string>
+    <string name="next_button">Next</string>
+
+    <string name="warning_text">¿Seguro que quieres hacer esto?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">Hacer trampa!</string>
+    <string name="judgment_toast">Hacer trampa esta mal.</string>
+
+</resources>
